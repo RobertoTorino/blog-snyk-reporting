@@ -1,0 +1,16 @@
+#ignore the logs folder
+logs/
+
+#ignore markdown
+*.md
+!README.md
+
+#ignore folders
+/.idea/
+/images/
+
+#ignore files
+Docker-clean.sh
+Docker-build.sh
+Dockerfile
+*.html
